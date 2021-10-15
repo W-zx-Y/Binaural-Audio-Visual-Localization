@@ -3,7 +3,7 @@
 This repository contains the pixel-level ground-truth locations of the sound sources for FAIR-Play dataset and YT-MUSIC dataset.
 
 The ground-truth localization maps of the FAIR-Play dataset can be downloaded [[here]](https://www.dropbox.com/s/xhec895hc9qubhx/gt-FAIR-Play.zip?dl=0).
-The ground-truth localization maps of the YT-MUSIC dataset can be downloaded [[here]](https://www.dropbox.com/s/xhec895hc9qubhx/gt-FAIR-Play.zip?dl=0).
+The ground-truth localization maps of the YT-MUSIC dataset can be downloaded [[here]](https://www.dropbox.com/s/5ir4h1o11jj0oys/gt-YT-Music.zip?dl=0).
 
 The videos and binaural sounds for these two dataset can been found at [[FAIR-Play]](https://github.com/facebookresearch/FAIR-Play) and [[YT-MUSIC]](https://pedro-morgado.github.io/spatialaudiogen/)
 
